@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/PROJECTS/
+/PROJECTS/*
+!/PROJECTS/AstraWeb/
+!/PROJECTS/AstraWeb/**
